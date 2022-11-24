@@ -3,11 +3,13 @@
 
 figure.figsize: 7.5, 2.5
 figure.dpi: 1200
-font.family: sans-serif'
 font.sans-serif: Helvetica
+font.family: sans-serif
 
 # Set color palette
-axes.prop_cycle: cycler('color', ['0C385C', '1770B8', '6B8AC5', 'D0D9F0'])
+axes.prop_cycle: cycler('color', ['0C385C', '1770B8', '6B8AC5', 'D0D9F0', '12A8AF'])
+# 12A8AF is actually not in the original ICM palette but we need more colors for some plots
+
 axes.facecolor: FFFFFF
 axes.edgecolor: 555555
 axes.spines.right: False
