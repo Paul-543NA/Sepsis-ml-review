@@ -2,6 +2,7 @@
 # https://www.springer.com/journal/134/submission-guidelines#Instructions%20for%20Authors_Artwork%20and%20Illustrations%20Guidelines
 
 figure.figsize: 7.5, 2.5
+figure.autolayout: True
 figure.dpi: 1200
 font.sans-serif: Helvetica
 font.family: sans-serif
