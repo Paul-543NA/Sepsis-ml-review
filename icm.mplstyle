@@ -1,0 +1,14 @@
+# Style sheet for plots in Intensive Care Medicine:
+# https://www.springer.com/journal/134/submission-guidelines#Instructions%20for%20Authors_Artwork%20and%20Illustrations%20Guidelines
+
+figure.figsize: 7.5, 2.5
+figure.dpi: 1200
+font.family: sans-serif'
+font.sans-serif: Helvetica
+
+# Set color palette
+axes.prop_cycle: cycler('color', ['0C385C', '1770B8', '6B8AC5', 'D0D9F0'])
+axes.facecolor: FFFFFF
+axes.edgecolor: 555555
+axes.spines.right: False
+axes.spines.top: False
