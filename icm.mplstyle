@@ -3,7 +3,7 @@
 
 figure.figsize: 7.5, 2.5
 figure.autolayout: True
-figure.dpi: 1200
+savefig.dpi: 1200
 font.sans-serif: Helvetica
 font.family: sans-serif
 
